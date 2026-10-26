@@ -1,0 +1,7 @@
+Python(name_of_folder).py
+
+eg
+
+main is name of folder 
+
+the Command is    python main.py
